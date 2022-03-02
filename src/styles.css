@@ -1,0 +1,10 @@
+.min-height-100vh {
+  min-height: 100vh;
+}
+.nav-link {
+  color: #000;
+}
+.nav-item.active a {
+  color: #fff;
+  background-color: #0d6efd;
+}
